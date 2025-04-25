@@ -1,4 +1,4 @@
-# Project: ## Credit Risk Profiling: Unlocking Loan Default Patterns
+# Credit Risk Profiling: Unlocking Loan Default Patterns
 
 ## 🛠️ Technologies Used
 	• 	Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
