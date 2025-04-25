@@ -1,10 +1,10 @@
 # Project: Credit Risk Profiling: Unlocking Loan Default Patterns
 
-🛠️ Technologies Used
-	•	Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-	•	SQL: MySQL Workbench
-	•	Power BI: Report development, DAX, KPI visuals
-  • Excel
+## 🛠️ Technologies Used
+	• Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+	• SQL: MySQL Workbench
+	• Power BI: Report development, DAX, KPI visuals
+        • Excel
  
 
 ⸻
