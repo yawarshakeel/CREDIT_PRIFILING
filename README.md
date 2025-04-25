@@ -4,7 +4,8 @@
 	• 	Python: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 	• 	SQL: MySQL Workbench
 	• 	Power BI: Report development, DAX, KPI visuals
-        • Excel
+ 	• 	Excel
+      
  
 
 ⸻
