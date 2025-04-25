@@ -60,5 +60,5 @@ To analyze patterns leading to loan defaults and prepare the dataset for machine
 	•	Ensured compatibility with ML algorithms that are sensitive to scale (e.g., KNN, Logistic Regression).
 
  ## Author
-Yawar Shakeel
+### Yawar Shakeel
 Aspiring Data Analyst | Skilled in Power BI, Excel, SQL, and Python
