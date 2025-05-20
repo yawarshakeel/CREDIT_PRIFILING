@@ -18,8 +18,8 @@ To analyze patterns leading to loan defaults and prepare the dataset for machine
 
 ## 📁 Dataset Description
 	•	Source: Open Loan Default Dataset (publicly available)
-	•	Size: ~10,000 records
-	•	Features: 20+ (including LoanAmount, CreditScore, EducationType, EmploymentType, LoanStatus, etc.)
+	•	Size: ~255k records
+	•	Features: 15+ (including LoanAmount, CreditScore, EducationType, EmploymentType, LoanStatus, etc.)
 
 ⸻
 
